@@ -1,0 +1,13 @@
+{
+  "formatVersion": 1,
+  "name": "Paint Vault dependent test source",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "repository": "github:moonryc/paint-vault-test-source",
+      "minimumVersion": "1.0.1"
+    }
+  ],
+  "catalog": "catalog.json",
+  "assets": "assets.json"
+}

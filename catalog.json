@@ -1,0 +1,16 @@
+{
+  "paints": [],
+  "schemes": [],
+  "templates": [
+    {
+      "id": "test-dependent-template",
+      "name": "Dependent miniature",
+      "manufacturer": "Test Brand",
+      "faction": "Fixtures",
+      "categories": ["Fixtures"],
+      "imageUrl": null,
+      "schemeIds": ["test-source-scheme-blue"],
+      "paints": [{ "paintId": "test-source-paint-blue", "step": "BASING", "notes": "", "sortOrder": 0 }]
+    }
+  ]
+}
